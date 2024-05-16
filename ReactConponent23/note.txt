@@ -1,0 +1,23 @@
+Props-
+
+>Arguments in function
+
+functio sum(a , b){
+    return a + b;
+}
+
+sum(10, 30);//called arguments in function
+sum(30,50);
+
+>i passed props when parent child relationship
+             C1
+             ^
+             /\
+        c2     c3
+>Only c1 passed props to c2 and c3 and c2 to c1 nad c3 to c1. we can't pass props to c2 to c3 this is not parent child relationship.        
+             
+
+ >Default props- if you forgrt pass props we can use Defaultprops.           
+
+
+

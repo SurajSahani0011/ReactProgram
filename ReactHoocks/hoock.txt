@@ -1,0 +1,32 @@
+Limitation of Class based components
+
+// Problem with using class-based components
+*Hard to reuse the stateful logic between components
+*Complex components become difficult to understand
+*Classes can be confusing at times
+
+
+>Hoocks are provided stateful loic inside functional components.
+>Hoocks are use in functional components.
+> class  components have already components life cycle method so that reason we can't use hoocks in class based components.
+
+
+>Usestate hooks
+*Usestate is a react hoocks that let you add a state variable to your component.
+
+
+>useEffect hooks
+*UseEffect is a react hooks that lets you synchronize a component with an external system.
+
+
+
+>useRef Hooks
+*useRef use for reference 
+*agar do bolck hai title and blog ka to jab add button karenge to phir se input field title block me chala jata hai
+
+
+
+>useReducer hooks
+*useReducer hooks is mejorly use in situation where you user who is using user where a state is getting manuplated through multiple event handler.
+
+for ex. 

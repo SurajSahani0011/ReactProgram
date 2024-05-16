@@ -1,0 +1,12 @@
+Britanica.com says: Life cycle is a series of states through which a living things
+
+passes from the beginning of its life until its death.
+
+ComponentLifeCycle: Life cycle is a series of states through which a Component
+
+passes from the beginning of its life until its death.
+
+
+> death means when a Component remove from DOM. also called Un-Mounted
+
+> Beginning of life means Created a Component. also called Mounted

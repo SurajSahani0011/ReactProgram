@@ -1,0 +1,18 @@
+>add docs ka use adding docs k liye use hota hai
+
+>set docs ka use adding docs k liye use hota hailakin isme auto generated id created hota hais
+
+>Problem:1:Expance-Tracker: isme database add karke update bhi karna hai
+
+
+
+
+
+>Getdocs5: isko apply karne se page refresh karenge to data udega nahi
+
+>Problem2ExpanceTracker: me refresh karne pe data same rahega
+
+
+>RealTimeDatabase: means agar ham do teen window me ek hi project kole to ek time pe sabhi window me update hoga.
+
+>Deleting a Doucs: means isme delete karne par database se bhi data delete ho jata hai.
