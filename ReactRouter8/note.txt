@@ -1,0 +1,12 @@
+1> Server-side-Roution -Used  Multi page application(MPA).
+2>Client-side-Routing - Used Single Page Application(SPA).
+
+2>Navigation using Link: isme link pe click karne pe page refresh nahi hota hai.
+
+>Nested Routes: 
+>Outlet: iska use navbar ke niche render karane k liye kiya jata hai
+>NavLink: isse active link dikhai deta hai
+
+>Absolute Vs Relative Path:
+>Absolute path: /root/name of component this type of path is called Absolute path.
+>Relative path: name  of component this type of path is called Relative path.
