@@ -1,0 +1,1 @@
+>React redux is scalavel state management laibary.

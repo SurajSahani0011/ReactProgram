@@ -3,3 +3,6 @@
 >ek context banate hai use koi value store karte hai like array,object, phir uske bad randomly component me pass karte hai.
 
 >Part 3 shopping-cart-Context-main3 me sabhi lec ka part pura kiya gya hai 
+
+
+>costom provoider ek default provoider hai ek hi file me code likhta hai.
